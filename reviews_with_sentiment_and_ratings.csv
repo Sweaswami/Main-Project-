@@ -1,0 +1,4 @@
+ReviewID,ReviewText,Rating,Sentiment
+1,This product is great!,5,Positive
+2,Not worth the money.,2,Negative
+3,Would buy again!,4,Neutral
